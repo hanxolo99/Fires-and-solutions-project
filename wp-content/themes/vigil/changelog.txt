@@ -1,0 +1,44 @@
+*** VIGIL WordPress Theme Changelog ***
+
+2017.11.14 - version 1.0
+ * First release!
+
+2017.11.16 - version 1.1
+ * Updated Dummy data
+
+2017.11.24 - version 1.2
+ * Fixed E-form installation issue
+ * Fixed visual composer frontend editor issue
+
+2018.04.18 - version 1.3
+ * Compatible with wordpress 4.9.5
+ * Updated bulk plugin install issue
+ * Portfolio Archives page issue resolved
+ * Packed with - DesignThemes Core Shortcode Plugins 1.1
+ * Packed with - Layer Slider 6.7.1
+ * Packed with - Revolution Slider 5.4.7.2
+ * Packed with - WPBakery Page Builder 5.4.7
+ * Packed with - Ultimate Addons for Visual Composer 3.16.22
+ * Packed with - eForm - WordPress Form Builder 4.2.1
+
+2018.07.03 - version 1.4
+ * Codestar Framework updated to latest version 1.0.2
+ * Packed with - Layer Slider 6.7.6
+ * Packed with - Revolution Slider 5.4.7.4
+ * Packed with - WPBakery Page Builder 5.5.2
+ * Packed with - Ultimate Addons for Visual Composer 3.16.24
+ * Packed with - Envato Market 2.0.0
+
+2018.07.16 - version 1.5
+ * GDPR Compliant update in comment form, mailchimp form etc.
+ 
+2018.07.30 - version 1.6
+ * Some design fixes.
+ * GDPR update for video section.
+ * Packed with - Revolution Slider 5.4.8
+ 
+2018.10.30 - version 1.7
+ * Gutenberg plugin compatible
+ * Updated latest version of all third party plugins
+ * Updated documentation
+ * Updated woocommerce outdated files.
